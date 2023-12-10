@@ -1,4 +1,14 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="style.css">
+
 # Changelog
 
-## [1.0.0] - 2023-12-09
-- Set up changelog.
+Welcome to the Bladesmith changelog! Here, you'll find detailed updates and improvements made to the game.
+
+## Version 1.0.0 - 2023-12-09
+- **Added**: Initial setup of the changelog page.
+
+<!-- Add future updates in similar format below -->
