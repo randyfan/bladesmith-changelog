@@ -1,23 +1,40 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
     padding: 20px;
+    max-width: 800px;
+    margin: auto;
 }
 
 h1 {
-    color: #333;
+    color: #0275d8;
+    text-align: center;
+    margin-bottom: 1em;
 }
 
 h2 {
-    color: #0275d8; /* A nice blue */
+    color: #333;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 5px;
 }
 
 ul {
     padding-left: 20px;
+    list-style-type: none;
 }
 
 li {
     margin-bottom: 5px;
+    font-weight: bold;
+    color: #333; /* Default text color for list items */
+    margin-left: -15px; /* Adjust bullet point alignment */
+}
+
+/* Date styling */
+.date {
+    color: #888;
+    font-style: italic;
+    font-size: 0.9em;
 }
