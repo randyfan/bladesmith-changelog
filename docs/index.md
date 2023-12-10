@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Bladesmith Game Changelog
 ---
 
 <link rel="stylesheet" href="style.css">

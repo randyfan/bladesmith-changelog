@@ -1,0 +1,4 @@
+title: Bladesmith Changelog
+description: Detailed updates and improvements to the Bladesmith game. # This provides a brief description of your site. It's often used in meta tags for SEO (Search Engine Optimization) and sometimes displayed in the site header or footer.
+baseurl: ""  # Not relevant for me.
+url: "http://bladesmith.io"  # This should be set to the full URL of your site, useful for generating absolute URLs, which are necessary for feeds and SEO.
